@@ -1,0 +1,19 @@
+{
+  "name": "mmm-cookingtimer",
+  "version": "0.0.1",
+  "description": "A notification based cooking timer",
+  "main": "MMM-CookingTimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnoxCode/MMM-CookingTimer.git"
+  },
+  "author": "Luc Raeskin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnoxCode/MMM-CookingTimer/issues"
+  },
+  "homepage": "https://github.com/EnoxCode/MMM-CookingTimer#readme"
+}
